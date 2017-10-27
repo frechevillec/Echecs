@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1509127231 source:c:\users\elekc\desktop\echecs\main.cpp
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Fou.h"
+	"Tour.h"
+	"Reine.h"
+	"Roi.h"
+	"JoueurNoir.h"
+	"JoueurBlanc.h"
+	"Jeu.h"
+
+1509126647 c:\users\elekc\desktop\echecs\include\piece.h
+
+1509126559 c:\users\elekc\desktop\echecs\include\joueur.h
+	"Piece.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Roi.h"
+	"Tour.h"
+	"Fou.h"
+	"Reine.h"
+
+1509126307 c:\users\elekc\desktop\echecs\include\echiquier.h
+	"Piece.h"
+
+1509125732 c:\users\elekc\desktop\echecs\include\pion.h
+	"Piece.h"
+
+1509126006 c:\users\elekc\desktop\echecs\include\cavalier.h
+	"Piece.h"
+
+1509126245 c:\users\elekc\desktop\echecs\include\roi.h
+	"Piece.h"
+
+1509126046 c:\users\elekc\desktop\echecs\include\tour.h
+	"Piece.h"
+
+1509126144 c:\users\elekc\desktop\echecs\include\fou.h
+	"Piece.h"
+
+1509126203 c:\users\elekc\desktop\echecs\include\reine.h
+	"Piece.h"
+	"Fou.h"
+	"Tour.h"
+
+1509126622 c:\users\elekc\desktop\echecs\include\joueurnoir.h
+	"Joueur.h"
+
+1509126660 c:\users\elekc\desktop\echecs\include\joueurblanc.h
+	"Joueur.h"
+
+1509128851 c:\users\elekc\desktop\echecs\include\jeu.h
+	"Piece.h"
+	"Echiquier.h"
+	"Joueur.h"
+	"JoueurBlanc.h"
+	"JoueurNoir.h"
+	<string>
+
+1509127512 source:c:\users\elekc\desktop\echecs\src\cavalier.cpp
+	<iostream>
+	"Piece.h"
+	"Cavalier.h"
+	"Echiquier.h"
+
+1509126331 source:c:\users\elekc\desktop\echecs\src\echiquier.cpp
+	<iostream>
+	"Echiquier.h"
+
+1509127541 source:c:\users\elekc\desktop\echecs\src\fou.cpp
+	<iostream>
+	"Fou.h"
+	"Piece.h"
+	"Echiquier.h"
+
+1509128944 source:c:\users\elekc\desktop\echecs\src\jeu.cpp
+	<iostream>
+	<string>
+	"Jeu.h"
+	"Piece.h"
+	"Joueur.h"
+	"Echiquier.h"
+	"JoueurBlanc.h"
+	"JoueurNoir.h"
+	"Pion.h"
+	"Tour.h"
+	"Cavalier.h"
+	"Fou.h"
+	"Reine.h"
+	"Roi.h"
+
+1509126579 source:c:\users\elekc\desktop\echecs\src\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1509126670 source:c:\users\elekc\desktop\echecs\src\joueurblanc.cpp
+	<iostream>
+	"JoueurBlanc.h"
+
+1509126634 source:c:\users\elekc\desktop\echecs\src\joueurnoir.cpp
+	<iostream>
+	"JoueurNoir.h"
+
+1509126604 source:c:\users\elekc\desktop\echecs\src\piece.cpp
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+
+1509127604 source:c:\users\elekc\desktop\echecs\src\pion.cpp
+	<iostream>
+	"Piece.h"
+	"Pion.h"
+	"Echiquier.h"
+
+1509126214 source:c:\users\elekc\desktop\echecs\src\reine.cpp
+	<iostream>
+	"Reine.h"
+	"Piece.h"
+
+1509127623 source:c:\users\elekc\desktop\echecs\src\roi.cpp
+	<iostream>
+	"Roi.h"
+	"Piece.h"
+	"Echiquier.h"
+
+1509129139 source:c:\users\elekc\desktop\echecs\src\tour.cpp
+	<iostream>
+	"Tour.h"
+	"Piece.h"
+	"Echiquier.h"
+	<cmath>
+
